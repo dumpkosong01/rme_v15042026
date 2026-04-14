@@ -70,10 +70,13 @@ untuk mengganti foto dari sisi admin tekan logo orang pada baris data di dalam t
 </p>
 <strong>Untuk merubah password dari sisi Client seperti pada gambar di bawah :</strong>
 
-|1|2|
+|Letak tombol|Bentuk Form|
 |----------|----------|
-|----------|----------|
+| <img width="500" alt="Screenshot 2026-04-15 021235" src="https://github.com/user-attachments/assets/f310b983-815e-427f-a082-443c8c5e2b32" /> | <img width="300" alt="Screenshot 2026-04-15 021336" src="https://github.com/user-attachments/assets/99e770af-7529-489b-8670-4f462b296327" /> |
 
+<h2>Peserta / Pasien</h2>
+
+## Coming Soon !
 
 
 
