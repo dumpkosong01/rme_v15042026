@@ -25,6 +25,7 @@
 
 ```
 Resolusi tester : 1366 x 786
+Browser tester  : Google Chrome
 ```
 - <strong>Tekan f11 / Klik Logo untuk mode full screen</strong>
 - <strong>Memuat ulang halaman display bisa menjadi alternatif perbaikan error pada panggilan</strong>
