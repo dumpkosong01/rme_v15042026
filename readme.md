@@ -61,12 +61,18 @@ Browser tester  : Google Chrome
 ```
 Perlu di ketahui bahwa Input nama dan email wajib dikarenakan 
 email merupakan data untuk login 
-password awal : @123 
+password awal : @123
+untuk mereset password dari sisi admin tekan logo kunci pada baris data di dalam table,
+untuk mengganti foto dari sisi admin tekan logo orang pada baris data di dalam table.
 ```
 <p align="center">
   <img width="600" height="457" alt="Screenshot 2026-04-15 015530" src="https://github.com/user-attachments/assets/13d18bda-bd2c-4c9a-92b7-3a63bd45348e" />
 </p>
+<strong>Untuk merubah password dari sisi Client seperti pada gambar di bawah :</strong>
 
+|1|2|
+|----------|----------|
+|----------|----------|
 
 
 
